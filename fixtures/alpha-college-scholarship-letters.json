@@ -1,0 +1,174 @@
+{
+  "page_count": 4,
+  "documents": [
+    {
+      "page_start": 1,
+      "page_end": 2,
+      "document_type": "scholarship_transfer_letter",
+      "document_type_label": "RE: Transfer of Athletic Scholarship Rights to Alumni Association of India",
+      "title": "Transfer of Athletic Scholarship Rights to Alumni Association of India",
+      "university": {
+        "name": "Alpha College of Engineering",
+        "address": "34, Udayavar Koil Street, Thirumazhisai, Poonamallee, Chennai - 600124, Tamil Nadu",
+        "role": "University"
+      },
+      "company": { "name": "Alumni Connect India Private Limited", "address": null, "role": "Addressee" },
+      "other_parties": [{ "name": "Alumni Association of India, Inc.", "address": null, "role": "Recipient of scholarship rights (AAI)" }],
+      "document_date_text": "22/11/2025",
+      "document_date_iso": "2025-11-22",
+      "academic_year": "2025-26",
+      "term_text": "Each scholarship entitles the recipient to a full four (4) academic years of support, contingent upon the student maintaining eligibility requirements as outlined in university policy.",
+      "term_years": null,
+      "auto_renewal": true,
+      "notice_period_text": null,
+      "referenced_agreement": null,
+      "scholarship_tiers": [
+        {
+          "name": "four-year Full Ride Scholarships",
+          "quantity_text": "Five Hundred (500)",
+          "quantity": 500,
+          "duration_text": "four-year",
+          "duration_years": 4,
+          "value_per_scholarship_per_year_text": null,
+          "value_per_scholarship_per_year": null,
+          "total_annual_value_text": null,
+          "total_annual_value": null,
+          "total_multi_year_value_text": null,
+          "total_multi_year_value": null,
+          "inclusions": [],
+          "page": 1
+        },
+        {
+          "name": "four-year Half-Fee",
+          "quantity_text": "Five Hundred (500)",
+          "quantity": 500,
+          "duration_text": "four-year",
+          "duration_years": 4,
+          "value_per_scholarship_per_year_text": null,
+          "value_per_scholarship_per_year": null,
+          "total_annual_value_text": null,
+          "total_annual_value": null,
+          "total_multi_year_value_text": null,
+          "total_multi_year_value": null,
+          "inclusions": [],
+          "page": 1
+        }
+      ],
+      "scholarship_totals": null,
+      "financial_terms": [],
+      "obligations": [],
+      "key_fields": [
+        { "label": "Rollover Provision", "value": "If in any given academic year AAI does not award the total of Five Hundred (500) scholarships, the balance of remaining scholarships shall be rolled over into the pool of AAI scholarships for future use.", "page": 1, "confidence": "high", "handwritten": false },
+        { "label": "Rights Conferred", "value": "The right to recommend candidates for these scholarships; The right to utilize these scholarships as assets within AAI's operations; The right to include these scholarships in AAI's financial statements at fair market value", "page": 2, "confidence": "high", "handwritten": false },
+        { "label": "University Final Approval", "value": "all recommended scholarship candidates remain subject to final approval by the University, which maintains the absolute and final right to accept or reject any scholarship candidate at its sole discretion.", "page": 2, "confidence": "high", "handwritten": false },
+        { "label": "Annual Renewal", "value": "This transfer of scholarship rights shall recur annually for the duration of our Agreement, with a new set of Five Hundred (500) scholarships becoming available at the beginning of each academic year.", "page": 2, "confidence": "high", "handwritten": false }
+      ],
+      "signatories": [
+        { "name": "G. SURESH", "designation": "Director, Physical Education and Sports", "organisation": "Alpha Arts and Science College, Chennai 600035", "page": 2, "handwritten": true }
+      ],
+      "stamps": [
+        { "text": "Director Physical Education and Sports Alpha Arts and Science College Chennai 600035", "page": 1 },
+        { "text": "Director Physical Education and Sports Alpha Arts and Science College Chennai 600035", "page": 2 }
+      ],
+      "summary": "Alpha College of Engineering, Chennai transfers to the Alumni Association of India (AAI) the right to recommend candidates for athletic scholarships for 2025-26: 500 four-year Full Ride and 500 four-year Half-Fee scholarships. Unawarded scholarships roll over, the transfer renews every academic year, and the University keeps final approval of candidates.",
+      "issues": [
+        { "severity": "warning", "message": "Page 1 lists Five Hundred (500) Full Ride and Five Hundred (500) Half-Fee scholarships, but the Rollover and Annual Renewal clauses refer to \"the total of Five Hundred (500)\".", "page": 1 },
+        { "severity": "warning", "message": "The signature stamp reads \"Alpha Arts and Science College, Chennai 600035\", while the letterhead and text name Alpha College of Engineering, Chennai - 600124.", "page": 2 }
+      ],
+      "full_text": "Alpha College of Engineering\n\nDate: 22/11/2025\n\nThe Board of Directors\nAlumni Association of India, Inc.\nAlumni Connect India Private Limited\n\nRE: Transfer of Athletic Scholarship Rights to Alumni Association of India\n\nDear Directors,\n\nThis document formally acknowledges and confirms the transfer of athletic scholarship rights from Alpha College of Engineering, 34, Udayavar Koil Street, Thirumazhisai, Poonamallee, Chennai - 600124, Tamil Nadu to the Alumni Association of India (AAI).\n\nSCHOLARSHIP TRANSFER CONFIRMATION:\n\nLegal Basis\nAlpha College of Engineering, 34, Udayavar Koil Street, Thirumazhisai, Poonamallee, Chennai - 600124, Tamil Nadu hereby formally transfers to AAI the rights to recommend candidates for athletic scholarships as specified below.\n\nScholarship Quantity and Type\nWe confirm the transfer of the following scholarships for the academic year 2025-26:\n1. Five Hundred (500) four-year Full Ride Scholarships\n2. Five Hundred (500) four-year Half-Fee\n\nTerms of Scholarships\nEach scholarship entitles the recipient to a full four (4) academic years of support, contingent upon the student maintaining eligibility requirements as outlined in university policy.\n\nRollover Provision\nIf in any given academic year AAI does not award the total of Five Hundred (500) scholarships, the balance of remaining scholarships shall be rolled over into the pool of AAI scholarships for future use.\n\n[Signature] Director, Physical Education and Sports, Alpha Arts and Science College, Chennai 600035\n\n--- Page 2 ---\n\nAlpha College of Engineering\n\nRights Conferred\nThis transfer grants AAI the following rights:\nThe right to recommend candidates for these scholarships\nThe right to utilize these scholarships as assets within AAI's operations\nThe right to include these scholarships in AAI's financial statements at fair market value\n\nUniversity Final Approval\nWe reiterate that all recommended scholarship candidates remain subject to final approval by the University, which maintains the absolute and final right to accept or reject any scholarship candidate at its sole discretion.\n\nAnnual Renewal\nThis transfer of scholarship rights shall recur annually for the duration of our Agreement, with a new set of Five Hundred (500) scholarships becoming available at the beginning of each academic year.\n\nThis document, along with the accompanying Valuation Letter, constitutes official recognition of the transfer of these scholarship rights to AAI as tangible assets for use.\n\nSincerely,\n[Signature] (G. SURESH)\nSignature:\nDirector, Physical Education and Sports, Alpha Arts and Science College, Chennai 600035"
+    },
+    {
+      "page_start": 3,
+      "page_end": 4,
+      "document_type": "scholarship_valuation_letter",
+      "document_type_label": "RE: Valuation of Athletic Scholarships Granted to Alumni Association of India",
+      "title": "Valuation of Athletic Scholarships Granted to Alumni Association of India",
+      "university": {
+        "name": "Alpha College of Engineering",
+        "address": "34, Udayavar Koil Street, Thirumazhisai, Poonamallee, Chennai - 600124, Tamil Nadu",
+        "role": "University"
+      },
+      "company": { "name": "Alumni Connect India Private Limited", "address": null, "role": "Addressee" },
+      "other_parties": [{ "name": "Alumni Association of India, Inc.", "address": null, "role": "Recipient of scholarships (AAI)" }],
+      "document_date_text": "22/11/2025",
+      "document_date_iso": "2025-11-22",
+      "academic_year": "2025-2026",
+      "term_text": null,
+      "term_years": null,
+      "auto_renewal": null,
+      "notice_period_text": null,
+      "referenced_agreement": null,
+      "scholarship_tiers": [
+        {
+          "name": "Four-Year Full-Ride Scholarships",
+          "quantity_text": "Five Hundred (500)",
+          "quantity": 500,
+          "duration_text": "Four-Year",
+          "duration_years": 4,
+          "value_per_scholarship_per_year_text": "₹ 4,40,000",
+          "value_per_scholarship_per_year": 440000,
+          "total_annual_value_text": "₹ 2,20,000,000",
+          "total_annual_value": 220000000,
+          "total_multi_year_value_text": "₹ 8,80,000,000",
+          "total_multi_year_value": 880000000,
+          "inclusions": [
+            { "item": "Tuition fees", "value_text": "₹ 4,40,000" },
+            { "item": "Room and board", "value_text": "Included" },
+            { "item": "Books and supplies", "value_text": "Included" },
+            { "item": "Other standard student fees", "value_text": "Included" }
+          ],
+          "page": 3
+        },
+        {
+          "name": "Four-Year Half-Fee Scholarships",
+          "quantity_text": "Five Hundred (500)",
+          "quantity": 500,
+          "duration_text": "Four-Year",
+          "duration_years": 4,
+          "value_per_scholarship_per_year_text": "₹ 2,20,000",
+          "value_per_scholarship_per_year": 220000,
+          "total_annual_value_text": "₹ 1,10,000,000",
+          "total_annual_value": 110000000,
+          "total_multi_year_value_text": "₹ 4,40,000,000",
+          "total_multi_year_value": 440000000,
+          "inclusions": [
+            { "item": "50% of tuition fees", "value_text": "₹ 2,20,000" },
+            { "item": "50% of room and board", "value_text": "Included" },
+            { "item": "50% of books and supplies", "value_text": "Included" },
+            { "item": "50% of other standard student fees", "value_text": "Included" }
+          ],
+          "page": 3
+        }
+      ],
+      "scholarship_totals": {
+        "combined_annual_value_text": "₹ 3,30,000,000",
+        "combined_annual_value": 330000000,
+        "combined_multi_year_value_text": "₹ 13,20,000,000",
+        "combined_multi_year_value": 1320000000,
+        "currency_as_printed": "₹",
+        "page": 4
+      },
+      "financial_terms": [],
+      "obligations": [],
+      "key_fields": [
+        { "label": "Basis of valuation", "value": "The valuations provided represent the fair market value of these scholarships based on our current fee structure for the academic year 2025-2026.", "page": 4, "confidence": "high", "handwritten": false },
+        { "label": "Unused scholarships", "value": "Any unused scholarships from the current academic year will be rolled over into the pool of AAI scholarships for the future.", "page": 4, "confidence": "high", "handwritten": false },
+        { "label": "Reliance", "value": "This valuation may be relied upon for accounting and financial reporting purposes by AAI and its auditors.", "page": 4, "confidence": "high", "handwritten": false }
+      ],
+      "signatories": [
+        { "name": "G. SURESH", "designation": "Director, Physical Education and Sports", "organisation": "Alpha Arts and Science College, Chennai 600035", "page": 4, "handwritten": true }
+      ],
+      "stamps": [
+        { "text": "Director Physical Education and Sports Alpha Arts and Science College Chennai 600035", "page": 3 },
+        { "text": "Director Physical Education and Sports Alpha Arts and Science College Chennai 600035", "page": 4 }
+      ],
+      "summary": "Alpha College of Engineering states the fair market value of the athletic scholarships granted to AAI for 2025-2026: 500 Full-Ride scholarships at ₹ 4,40,000 per year and 500 Half-Fee scholarships at ₹ 2,20,000 per year, with a printed combined annual value of ₹ 3,30,000,000 and four-year value of ₹ 13,20,000,000.",
+      "issues": [
+        { "severity": "info", "message": "Amounts use mixed digit grouping (e.g. \"₹ 2,20,000,000\"), neither standard Indian nor Western grouping. The digits are recorded as printed.", "page": 3 },
+        { "severity": "info", "message": "Full-Ride value per year equals the tuition fee (₹ 4,40,000) although room and board, books and other fees are listed as \"Included\" without amounts.", "page": 3 },
+        { "severity": "warning", "message": "The signature stamp reads \"Alpha Arts and Science College, Chennai 600035\", while the letterhead names Alpha College of Engineering.", "page": 4 }
+      ],
+      "full_text": "Alpha College of Engineering\n\nDate: 22/11/2025\n\nThe Board of Directors\nAlumni Association of India, Inc.\nAlumni Connect India Private Limited\n\nRE: Valuation of Athletic Scholarships Granted to Alumni Association of India\n\nDear Directors:\n\nThis letter serves to formally document and establish the fair market value of athletic scholarships granted by Alpha College of Engineering, 34, Udayavar Koil Street, Thirumazhisai, Poonamallee, Chennai - 600124, Tamil Nadu to Alumni Association of India (AAI).\n\nAlpha College of Engineering, 34, Udayavar Koil Street, Thirumazhisai, Poonamallee, Chennai - 600124, Tamil Nadu hereby confirms the transfer and contribution of the following athletic scholarships to AAI for the academic year 2025-2026:\n\nScholarship Valuation\nFive Hundred (500) Four-Year Full-Ride Scholarships\n• Value per scholarship per year: ₹ 4,40,000\n• Total annual value: ₹ 2,20,000,000\n• Total four-year value: ₹ 8,80,000,000\nEach Full-Ride Scholarship includes:\n• Tuition fees: ₹ 4,40,000\n• Room and board: Included\n• Books and supplies: Included\n• Other standard student fees: Included\nFive Hundred (500) Four-Year Half-Fee Scholarships\n• Value per scholarship per year: ₹ 2,20,000\n• Total annual value: ₹ 1,10,000,000\n• Total four-year value: ₹ 4,40,000,000\nEach Half-Fee Scholarship includes:\n• 50% of tuition fees: ₹ 2,20,000\n• 50% of room and board: Included\n• 50% of books and supplies: Included\n• 50% of other standard student fees: Included\n\n[Signature] Director, Physical Education and Sports, Alpha Arts and Science College, Chennai 600035\n\n--- Page 4 ---\n\nAlpha College of Engineering\n\nTotal Valuation of All Scholarships\n• Combined annual value: ₹ 3,30,000,000\n• Combined four-year value: ₹ 13,20,000,000\n\nThe valuations provided represent the fair market value of these scholarships based on our current fee structure for the academic year 2025-2026. These values are consistent with what we charge other students attending our institution and represent the actual economic benefit being transferred to AAI.\n\nAny unused scholarships from the current academic year will be rolled over into the pool of AAI scholarships for the future.\n\nWe confirm that AAI has the right to recommend candidates for these scholarships, subject to final approval by the University, and that these scholarships constitute a tangible asset transferred to AAI for its use.\n\nThis valuation may be relied upon for accounting and financial reporting purposes by AAI and its auditors.\n\nSincerely,\n[Signature] [G. SURESH]\nDirector, Physical Education and Sports, Alpha Arts and Science College, Chennai 600035"
+    }
+  ]
+}
