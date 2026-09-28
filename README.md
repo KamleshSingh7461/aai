@@ -4,22 +4,64 @@ AI-read records of every MoU and agreement between universities and our group co
 
 **University → Company → Agreements.** A regional manager photographs a signed copy (or uploads a scanned PDF). Claude reads every page, splits files that hold more than one document, and extracts the terms exactly as printed. Automatic checks flag anything that doesn't add up, and a person reviews and approves before the record counts as official.
 
-## Run it locally
+## Set up on a new PC
 
-```bash
-npm install
-cp .env.example .env        # then put your Claude API key in ANTHROPIC_API_KEY
-npx prisma db push          # creates prisma/dev.db
-npm run db:seed             # adds EUSAI, ACI, FGSN, SDN, EFLI, ESI
-npm run dev                 # http://localhost:3000
-```
+1. Install **Node.js 22** ([nodejs.org](https://nodejs.org)) and **Git** if they aren't installed.
+2. Download the code:
+   ```bash
+   git clone https://github.com/KamleshSingh7461/aai.git
+   ```
+3. Go into the folder:
+   ```bash
+   cd aai
+   ```
+4. Install the packages:
+   ```bash
+   npm install
+   ```
+5. Create your settings file, then put your Claude API key in `ANTHROPIC_API_KEY` inside it (on macOS/Linux use `cp` instead of `copy`):
+   ```bash
+   copy .env.example .env
+   ```
+6. Create the database:
+   ```bash
+   npx prisma db push
+   ```
+7. Add the six companies (EUSAI, ACI, FGSN, SDN, EFLI, ESI):
+   ```bash
+   npm run db:seed
+   ```
+8. Start the app, then open http://localhost:3000:
+   ```bash
+   npm run dev
+   ```
 
-On Windows PowerShell use `copy .env.example .env` instead of `cp`.
-
-The database (`prisma/dev.db`), uploaded scans (`storage/`) and `.env` are **not** in the repository. A fresh clone starts empty. To load the Alpha College sample, run:
+The database (`prisma/dev.db`), uploaded scans (`storage/`) and `.env` are **not** in the repository, so a new PC starts with an empty app; test data stays on the PC where it was created. To load the Alpha College sample, run:
 
 ```bash
 npx tsx scripts/import-fixture.ts path/to/1767896951_MoU_Scholarship_Valuation_Letter.pdf fixtures/alpha-college-scholarship-letters.json
+```
+
+## Working across PCs
+
+Before you stop on one machine, commit your changes and push:
+
+```bash
+git add -A
+```
+
+```bash
+git commit -m "Describe what changed"
+```
+
+```bash
+git push
+```
+
+When you start on the other machine, pull first:
+
+```bash
+git pull
 ```
 
 ## How a document flows
